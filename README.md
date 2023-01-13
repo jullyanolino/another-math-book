@@ -8,7 +8,7 @@ A simple book about **math** with a lots of **code examples** in Rust and other 
 
 Author: **Jullyano Lino**, PhD - [https://jullyanolino.com](https://julyanolino.com)
 
-Contributors: Svetlin Nakov (from whose repository was forked)
+Contributors: Svetlin Nakov (from whose project repository was forked)
 
 Sponsor: Myself
 
