@@ -16,7 +16,7 @@ ISBN: **none** (none)
 
 This book is free and open-source, published under the [**MIT license**](https://opensource.org/licenses/MIT).
 
-Official Web site: [https://cryptobook.nakov.com](https://cryptobook.nakov.com)
+Official Web site: [https://cryptobook.nakov.com](https://onlino.gitbook.io/math/)
 
 Official **GitHub** repo: [https://github.com/jullyanolino/another-math-book](https://github.com/jullyanolino/another-math-book).
 
