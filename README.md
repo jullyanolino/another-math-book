@@ -8,7 +8,7 @@ A simple book about **math** with a lots of **code examples** in Rust and other 
 
 Author: **Jullyano Lino** - [https://jullyanolino.com](https://julyanolino.com)
 
-Contributors: Svetlin Nakov (from whose project repository was forked) [https://cryptobook.nakov.com]
+Contributors: Svetlin Nakov (from whose project repository was forked) [https://cryptobook.nakov.com](https://cryptobook.nakov.com)
 
 Sponsor: Myself
 
@@ -16,7 +16,7 @@ ISBN: **none** (none)
 
 This book is free and open-source, published under the [**MIT license**](https://opensource.org/licenses/MIT).
 
-Official Web site: [https://cryptobook.nakov.com](https://onlino.gitbook.io/math/)
+Official Web site: [https://onlino.gitbook.io/math/](https://onlino.gitbook.io/math/)
 
 Official **GitHub** repo: [https://github.com/jullyanolino/another-math-book](https://github.com/jullyanolino/another-math-book).
 
