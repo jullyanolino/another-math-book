@@ -6,9 +6,9 @@
 
 A simple book about **math** with a lots of **code examples** in Rust and other languages.
 
-Author: **Jullyano Lino**, PhD - [https://jullyanolino.com](https://julyanolino.com)
+Author: **Jullyano Lino** - [https://jullyanolino.com](https://julyanolino.com)
 
-Contributors: Svetlin Nakov (from whose project repository was forked)
+Contributors: Svetlin Nakov (from whose project repository was forked) [https://cryptobook.nakov.com]
 
 Sponsor: Myself
 
